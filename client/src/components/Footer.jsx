@@ -86,7 +86,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          Made by Avish
+          Made by Night Owl
           © {new Date().getFullYear()}
         </div>
       </footer>
